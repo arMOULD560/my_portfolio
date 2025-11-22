@@ -2,7 +2,7 @@
 
 A modern, GitHub-inspired portfolio website showcasing projects, skills, and experience as a Computer Science student with expertise in data science, machine learning, and full-stack development.
 
-**🌐 Live Portfolio:** [https://yourusername.github.io/my_portfolio](https://yourusername.github.io/my_portfolio)
+**🌐 Live Portfolio:** https://armould560.github.io/my_portfolio/
 
 ---
 
@@ -91,6 +91,6 @@ Organized skill categories:
 ## 🚀 Quick Start
 
 ### Option 1: View Live Website
-Simply visit: [https://yourusername.github.io/my_portfolio](https://github.com/arMOULD560/my_portfolio)
+Simply visit: https://armould560.github.io/my_portfolio/
 
 ### Option 2: Clone & Run Locally
